@@ -6,7 +6,13 @@ This repository will include all the projects created during this term's Videoga
 # Class Notes
 
 ## Cryptocurrency
-Crypto is a form of digital currency where, instead of centralized national banks, relies on speculation and incentives to establish its value. This makes Crypto an extremely volatile currency, having experienced drastic drops and rises
+Crypto is a form of digital currency where, instead of centralized national banks, relies on speculation and incentives to establish its value. This makes Crypto an extremely volatile currency, having experienced drastic drops and rises in value during its existence.
+
+It essentially runs on the economic concept of supply and demand. If there's a lot of demand, its value rises, and viceversa.
+
+Its digital nature also enables virtual exchanges with other Crypto users, making it a faster way of making profits compared to the stock market exchange, while also being more widely accesible. However, the Crypto market is a lot more prone to drastic devaluations compared to the relatibly stable stock exchange, so it is a very risky investment.
+
+![](https://m.foolcdn.com/media/dubs/images/original_imagesoriginal_imageshttpsg.foolcdn.c.width-880_SfbkM9V.jpg)
 
 ## Fungibility
 Fungibility refers to the ability of a material to be able to be exchanged by another material of the same value. Official currencies are a good example of it: you can easily exchange 20 euros for 20 euros without it losing any value. As so, a non-fungible object cannot be exchanged identically. Art pieces are non-fungible, for example. There's only one Mona Lisa, so exchanging for a completely equal value is nigh imposible. You can get a replica, but it won't the same.
