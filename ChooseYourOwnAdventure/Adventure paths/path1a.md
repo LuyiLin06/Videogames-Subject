@@ -6,10 +6,10 @@ There's a certain static noise playing constantly. At first, you thought it was 
 
 You finally reach a fork, and another choice has to be made. You're not sure wether you would even be able to trace your steps back, this place seems vehement on making you lose your track. Will you leave some marking on the wall to guide you back just in case?
 
-Don't leave marks, and go left
+a)Don't leave marks, and go left
 
-Don't leave marks, and go right
+b)Don't leave marks, and go right
 
-Leave marks, and go left
+c)Leave marks, and go left
 
-Leave marks, and go right
+d)Leave marks, and go right
