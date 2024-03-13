@@ -8,6 +8,6 @@ You finally stand up. Your legs feel sore. Infact, your whole body does. It feel
 
 Okay. Good, good. You feel your senses synchronizing once again. Whilst struggling to keep yourself balanced, the walls seem to call you in. The entrance, or whatever you fell through, has disappeared, vanished. You seem to be in an aisle, it's your choice where to go.
 
-[Go left](https://github.com/LuyiLin06/Videogames-Subject/blob/main/ChooseYourOwnAdventure/Adventure%20paths/path1a.md)
+a) [Go left](https://github.com/LuyiLin06/Videogames-Subject/blob/main/ChooseYourOwnAdventure/Adventure%20paths/path1a.md)
 
-Go right
+b) Go right
