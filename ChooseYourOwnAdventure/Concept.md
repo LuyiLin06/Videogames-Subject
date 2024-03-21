@@ -1,4 +1,4 @@
-You're trapped in a labyrinth that seems to morph as you progress, how will you fare?
+You're trapped in a labyrinth that seems to morph as you progress, how will you fare? In this place, only static fills the ever-silent wall labyrinth. Try looking for an escape, but be warned, if you hear anything, it has already heard you.
 
 ![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/710d9d20-3d07-490f-a899-4f88a0aed33c/dfmzjar-bca08a53-73f0-4f9e-ad9a-c93154a33052.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzcxMGQ5ZDIwLTNkMDctNDkwZi1hODk5LTRmODhhMGFlZDMzY1wvZGZtemphci1iY2EwOGE1My03M2YwLTRmOWUtYWQ5YS1jOTMxNTRhMzMwNTIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0UYc3Nak3fErRMmVKq1ahVRfPePSn4DmNxlkC_UwhIE)
 <h6>Image extracted from the artist's, "GoldcatDrewThis", from their DeviantArt. Under the Creative Commons license.
